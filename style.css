@@ -14,7 +14,7 @@ body {
 .header {
     height: 100vh;
     background-color: #eee;
-    background-image: url(rules.jpg);
+    background-image: url(./images/rules.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
